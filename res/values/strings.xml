@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tajweed Reference</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Tajweed Rules -->
+    <string name="rule_full_mouth">Full Mouth Letters</string>
+	<string name="rule_ghunnah">Ghunnah</string>
+	<string name="rule_idghaam">Idghaam</string>
+	<string name="rule_ikhfa">Ikhfa</string>
+	<string name="rule_izhaar">Izhaar</string>
+	<string name="rule_meem">The Letter Meem</string>
+	<string name="rule_qalb">Qalb</string>
+	<string name="rule_raa">The Letter Raa</string>
+	<string name="rule_laam_allah">Laam in Allah</string>
+	<string name="rule_qalqalah">Qalqalah</string>
+	<string name="rule_waqf">Waqf (Stopping)</string>
+	<string name="rule_mudd">Madd</string>
+	<string name="rule_sun">Sun Letters</string>
+	<string name="rule_moon">Moon Letters</string>
+	
+	<!-- Buttons -->
+	<string name="b_quiz">Quiz</string>
+	<string name="b_return">Return</string>
+	
+	<!-- Full Mouth Letters -->
+	<string name="full_mouth_description">The following letters are to be said with
+	    a full mouth always: </string>
+	<string name="full_mouth_letters">ج ص ض غ ق ط ظ</string>
+	
+	<!-- Ghunnah -->
+	<string name="ghunnah_description">If a nun(ن) or meem(م) have a tashdeed( ّ ), make a drawn out nasal sound
+	    when reciting the letter. The act is called making ghunnah. </string>
+		
+	<!-- Idghaam -->
+	<string name="idghaam_description_p1">If after nun saakin(نْ) or tanween( ٍ ً  ٌ ) the following letters appear: </string>
+	<string name="idghaam_description_p2">ي ن م و</string>
+	<string name="idghaam_description_p3">Join the letters (idghaam), and make ghunnah (long nasal sound)
+	    \n\nIf after nun saakin or tanween the following letters appear: </string>
+	<string name="idghaam_description_p4">ل ر</string>
+	<string name="idghaam_description_p5">Make idghaam without ghunnah</string>
+	
+	<!-- Ikhfa -->
+	<string name="ikhfa_description">If after nun saakin(نْ) or tanween( ٍ ً  ٌ ) any of the below letters appear, 
+	    the nun saakin or tanween is pronounced lightly with ghunnah</string>
+	<string name="ikhfa_letters">ت ث ج د ذ ز س ش ص ض ط ظ ف ق ك</string>
+	    
+	<!-- Izhaar -->
+	<string name="izhaar_description">If after nun saakin(نْ) or tanween( ٍ ً  ٌ ) any of the below letters appear,
+	    then make izhaar (recite letter clearly and without ghunnah)</string>
+	<string name="izhaar_letters">ء ه ع غ ح خ</string>
+	
+	<!-- Meem -->
+	<string name="meem_description_1">If a meem(م) is followed by another meem, the first will be pronounced
+	    as if it carries a sukoon( ْ ) and the second one will have a tashdeed( ّ ) and harakah( َ ِ ُ ). Pronounce 
+	    letters with ghunnah, in a nasal tone, for 2 time units.</string>
+	<string name="meem_description_2">If a meem precedes a bah(ب), make ghunnah as to hide the meem for
+	    2 time units. Do this by parting lips slightly as you say the meem and prepare your lips for
+	    saying the bah. </string>
+	<string name="meem_description_3">If a meem carries a sukoon, and the following letter is not bah or meem,
+	    then pronounce the meem clearly (without ghunnah) and continue normally </string>
+	
+	<!-- Qalb -->
+	<string name="qalb_description">If a bah(ب) follows a noon saakin(نْ) or tanween( ّ ), the noon saakin or tanween 
+	    becomes a meem(م). </string>
+	    
+	<!-- Raa -->
+	<string name="raa_term1">Tafkheem is to say raa(ر) with full mouth</string>
+	<string name="raa_term2">Tarqeeq is to say raa with empty mouth</string>
+	<string name="raa_def1">There are five situations for Tafkheem: \n
+	    1. Raa carries fathah( َ ) or dammah( ُ ).\n
+	    2. Raa carries sukoon( ْ ) and the previous letter carries fathah or dammah.\n
+	    3. Raa carries sukoon and the previous letter carries kasrah( ِ ), but the following character is full mouth and carries no kasrah.\n
+	    4. Raa carries sukoon and the previous letter is said with a kasrah that is not physically there.\n
+	    5. The reader stops on raa (in end or middle of ayah), the previous letter has sukoon, the previous letter is not a yaa(ي), and the letter before that has a fathah or dammah.</string>
+	
+	<string name="raa_def2">There are four situations for Tarqeeq: \n
+	    1. Raa carries a kasrah.\n
+	    2. Raa carries a sukoon, the previous letter physically has a kasrah, and the following letter is not a full mouth letter.\n
+	    3. The reader stops on raa (in the end or middle of ayah), and the previous letter is a yaa with a sukoon.\n
+	    4. The reader stops on raa (in the end or middle of ayah), the letter before the raa is not a full mouth letter, and the letter before this has a kasrah.</string>
+	
+	<!-- Laam Allah -->
+	<string name="laam_allah_description_1">If a fathah( َ ) or dammah( ُ ) precedes Allah(الله) then pronounce laam(ل) in Allah with a full mouth.</string>
+	<string name="laam_allah_description_2">If a kasrah( ِ ) precedes Allah then pronounce laam in Allah with an empty mouth.</string>
+	
+	<!-- Qalqalah -->
+	<string name="qalqalah_description">If any of the below letters carry a sukoon or are a stopping point in the ayah,
+	    make a short echoing noise upon stopping on the letter by moving the tongue or lips upon letter recitation.</string>	    
+	<string name="qalqalah_letters">ب د ج ط ق</string>
+	
+	<!-- Waqf -->
+	<string name="waqf_description_1"></string>
+	
+	<!-- Mudd -->
+	<string name="mudd_description_1">If an alif(ا) is preceded by a fatha( َ ), or a yaa(ي) is preceded by a 
+	    kasra( ِ ), or a waw(و) is preceded by a dhamma( ُ ), then extend the letter underneath/over the respective 
+	    harakah (vowel) by 1 time unit. </string>
+	<string name="mudd_description_2"></string>
+	
+	<!-- Sun Letters -->
+	<string name="sun_description"></string>
+	<string name="sun_letters">ت ث د ذ ر ز س ش ص ض ط ظ ل ن</string>
+	
+	<!-- Moon Letters -->
+	<string name="moon_description"></string>
+	<string name="moon_letters">ا ب  ج ح خ ع غ ف ق ك م ه و ي
+	    </string>
+		
+</resources>

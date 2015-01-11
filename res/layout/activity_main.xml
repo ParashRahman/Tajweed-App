@@ -1,0 +1,152 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="5dip">
+    
+	<LinearLayout android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical">
+	    
+		<TextView
+	    	android:id="@+id/tv_full_mouth"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_full_mouth"
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+			android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_ghunnah"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_ghunnah" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_idghaam"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_idghaam" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_ikhfa"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_ikhfa" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_izhaar"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_izhaar" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_meem"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_meem" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_qalb"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_qalb" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_raa"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_raa" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_laam_allah"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_laam_allah" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_qalqalah"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_qalqalah" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_waqf"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_waqf" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_mudd"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_mudd" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_sun"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_sun" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+		
+		<TextView
+	    	android:id="@+id/tv_moon"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:text="@string/rule_moon" 
+	    	android:textSize="20sp"
+	    	android:padding="5dp"
+	    	android:layout_marginTop="5dp"
+	    	android:background="@drawable/rectangle_back"/>
+	</LinearLayout>
+</ScrollView>
+
+

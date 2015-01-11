@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="14"
+        android:text="@string/rule_izhaar"
+        android:textSize="35sp"
+        android:paddingBottom="5dp" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_weight="76" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/izhaar_description"
+                android:textSize="20sp" 
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/izhaar_letters"
+                android:gravity="center"
+                android:textSize="50sp" />
+            
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="10"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/b_return"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/b_return" />
+
+        <Button
+            android:id="@+id/b_quiz"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/b_quiz" />
+    </LinearLayout>
+
+</LinearLayout>
